@@ -98,7 +98,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to programming](coursepages/intro-programming/README.md) ✅
 
-[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md) ✅
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
@@ -132,29 +132,29 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Single Variable Calculus
 
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ✅
 
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) ✅
 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) ✅
 
 ### Linear Algebra
 
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ✅
 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) ✅
 
 ### Multivariable Calculus
 
-[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) ✅
 
 ### Statistics & Probability
 
-[Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
+[Introduction to Probability](https://projects.iq.harvard.edu/stat110/home) ✅
 
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) ✅
 
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) ✅
 
 [Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 
@@ -168,13 +168,13 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Machine Learning/Data Mining
 
-[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) ✅
 
 [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
 
 [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 
-[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ✅
 
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 
