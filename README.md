@@ -63,7 +63,7 @@ Python and R are heavily used in Data Science community and our courses teach yo
 
 ### Introduction to Data Science
 
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[What is Data Science](https://www.coursera.org/learn/what-is-datascience) ✅
 
 ### Introduction to Computer Science
 
