@@ -61,6 +61,11 @@ Python and R are heavily used in Data Science community and our courses teach yo
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
 
+## Current plan in order
+- Database management essentials
+- Statistical learning with R
+- Rest of database section
+
 ### Introduction to Data Science
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience) ✅
